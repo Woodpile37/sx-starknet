@@ -863,10 +863,15 @@
   resolved "https://registry.yarnpkg.com/@openzeppelin/contracts-upgradeable/-/contracts-upgradeable-4.7.2.tgz#414096e21f048200cbb7ad4fe4c6de2e822513bf"
   integrity sha512-3dgc6qVmFch/uOmlmKnw5/v3JxwXcZD4T10/9CI1OUbX8AqjoZrBGKfxN1z3QxnIXRU/X31/BItJezJSDDTe7Q==
 
-"@openzeppelin/contracts@^4.3.2", "@openzeppelin/contracts@^4.7.3":
+"@openzeppelin/contracts@^4.3.2":
   version "4.7.3"
   resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.7.3.tgz#939534757a81f8d69cc854c7692805684ff3111e"
   integrity sha512-dGRS0agJzu8ybo44pCIf3xBaPQN/65AIXNgK8+4gzKd5kbvlqyxryUYVLJv7fK98Seyd2hDZzVEHSWAh0Bt1Yw==
+
+"@openzeppelin/contracts@^4.9.1":
+  version "4.9.2"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.9.2.tgz#1cb2d5e4d3360141a17dbc45094a8cad6aac16c1"
+  integrity sha512-mO+y6JaqXjWeMh9glYVzVu8HYPGknAAnWyxTRhGeckOruyXQMNnlcW6w/Dx9ftLeIQk6N+ZJFuVmTwF7lEIFrg==
 
 "@resolver-engine/core@^0.3.3":
   version "0.3.3"
@@ -5750,9 +5755,9 @@ http-basic@^8.1.1:
     parse-cache-control "^1.0.1"
 
 http-cache-semantics@^4.0.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-4.1.0.tgz#49e91c5cbf36c9b94bcfcd71c23d5249ec74e390"
-  integrity sha512-carPklcUh7ROWRK7Cv27RPtdhYhUsela/ue5/jKzjegVvXDqM2ILE9Q2BGn9JZJh1g87cp56su/FgQSzcWS8cQ==
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-4.1.1.tgz#abe02fcb2985460bf0323be664436ec3476a6d5a"
+  integrity sha512-er295DKPVsV82j5kw1Gjt+ADA/XYHsajl82cGNQG2eyoPkvgUhX+nDIyelzhIWbbsXP39EHcI6l5tYs2FYqYXQ==
 
 http-errors@2.0.0:
   version "2.0.0"
